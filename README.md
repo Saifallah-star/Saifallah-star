@@ -86,9 +86,4 @@
 </tr>
 </table>
 
-<div align="center">
 
-[![LinkedIn](www.linkedin.com/in/saifallah-basem)
-[![GitHub]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername](https://github.com/Saifallah-star))
-
-</div>
