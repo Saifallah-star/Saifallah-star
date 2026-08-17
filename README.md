@@ -75,10 +75,6 @@
 
 <br>
 
-#### Highlights
-- Flutter mobile apps — state management, sqflite, native Android build workflows
-- QA & software testing — UI, API, and DB test coverage with structured bug reports
-- Daily Linux user, dev-env setup to build troubleshooting
 
 `saif@github:~$ _`
 
