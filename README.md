@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="45%">
+<td valign="top" width="42%">
 
 ```
                        .=*%@@@@@%#+-.
@@ -41,37 +41,46 @@
 ```
 
 </td>
-<td valign="top" width="55%">
+<td valign="top" width="58%">
 
-```
-saif@github:~$ whoami
+`saif@github:~$ whoami`
 
-Software Engineer
-Mobile App Developer · Software Tester
+### Software Engineer
+**Mobile App Developer** · **Software Tester**
 
-- Edu    B.Eng Computer Engineering
-         Ain Shams University
+<br>
 
-- Stack
-    Mobile     Flutter (Dart)
-    Languages  Java, Python, C++
-    Database   SQL
-    Tools      Linux, Git
+**🎓 Edu**
+&nbsp;&nbsp;B.Eng Computer Engineering, Ain Shams University
 
-- Highlights
-    Flutter mobile apps — state
-    management, sqflite, native
-    Android build workflows
+**📱 Mobile**
 
-    QA & software testing — UI,
-    API, and DB test coverage
-    with structured bug reports
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-    Daily Linux user, dev-env
-    setup to build troubleshooting
+**💻 Languages**
 
-saif@github:~$ _
-```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**🗄️ Database**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🛠️ Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+**✨ Highlights**
+- Flutter mobile apps — state management, sqflite, native Android build workflows
+- QA & software testing — UI, API, and DB test coverage with structured bug reports
+- Daily Linux user, dev-env setup to build troubleshooting
+
+`saif@github:~$ _`
 
 </td>
 </tr>
@@ -79,7 +88,7 @@ saif@github:~$ _
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
