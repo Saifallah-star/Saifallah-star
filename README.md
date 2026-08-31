@@ -49,7 +49,6 @@
 **Mobile App Developer** · **Software Tester**
 
 <br>
-
 #### Edu
 &nbsp;&nbsp;B.Eng Computer Engineering, Ain Shams University
 
