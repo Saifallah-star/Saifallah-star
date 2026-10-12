@@ -51,7 +51,6 @@
 `saif@github:~$ whoami`
 
 ### Software Engineer
-**Mobile App Developer** · **Software Tester**
 
 <br>
 
