@@ -49,10 +49,8 @@
 <td valign="top" width="58%">
 
 `saif@github:~$ whoami`
-
 ## Software Engineer
 <br>
-
 #### Edu
 &nbsp;&nbsp;B.Eng Computer Engineering, Ain Shams University
 
