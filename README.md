@@ -2,7 +2,7 @@
 
 # Hey, I'm Saifallah!
 
-### Software Engineer | Computer Engineering
+### Student Engineer | Computer Engineering
 
 Building software, exploring AI, and continuously learning new technologies.
 
