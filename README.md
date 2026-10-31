@@ -1,3 +1,16 @@
+<div align="center">
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saifallah-star/Saifallah-star/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saifallah-star/Saifallah-star/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Saifallah-star/Saifallah-star/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+ 
+ 
  <div align="center">
 
 # Hey, I'm Saifallah!
@@ -85,17 +98,3 @@ Exploring concepts and technologies for building LLM-powered applications.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
----
-
-<div align="center">
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saifallah-star/Saifallah-star/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saifallah-star/Saifallah-star/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Saifallah-star/Saifallah-star/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
