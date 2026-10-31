@@ -1,8 +1,8 @@
-<table>
+ <table>
 <tr>
 <td valign="top" width="42%">
 
-```
+```text
                        .=*%@@@@@%#+-.
                      .+%@@@@@@@@@@%@%+.
                     .#@@@@@@@@@@@#*#@@%-
@@ -25,6 +25,7 @@
            .#@%@+. ................... .. -@%%%%@@@@:
            +@%@*. ........................ +@@@%%@@@%.
           +@%@%. ......................... -@@@@%@@@@=
+          +@@@@= .......................... :@@@%%@@@@#.
         .+@@@@= .......................... :@@@%%@@@@#.
         +@@%%@: .......................... :@@@%@@@@@%.
         #@@@%%. ........................   -@@%%@@@@@#.
@@ -77,11 +78,21 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
+#### Generative AI & LLMs
+
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-412991?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Quantization](https://img.shields.io/badge/Quantization-00897B?style=for-the-badge&logoColor=white)
+![Parser Chains](https://img.shields.io/badge/Parser_Chains-546E7A?style=for-the-badge&logoColor=white)
+
 #### Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 
 <br>
 
@@ -90,4 +101,3 @@
 </td>
 </tr>
 </table>
-
